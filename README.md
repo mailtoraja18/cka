@@ -4,6 +4,17 @@ https://www.cncf.io/certification/candidate-handbook
 ## This CKA exam curriculum includes these general domains and their weights on the exam:
 * Application Lifecycle Management 8%
 * Installation, Configuration & Validation 12%
+  * DesignaKubernetescluster.
+  * InstallKubernetesMastersandNodes.
+  * ConfigureSecureclusterCommunications.
+  * ConfigureaHighly-AvailableKubernetescluster.
+  * KnowwheretogettheKubernetesreleasebinaries.
+  * ProvisionunderlyinginfrastructuretodeployaKubernetescluster.
+  * Chooseanetworksolution.
+  * ChooseyourKubernetesinfrastructureconfiguration.
+  * Runend-to-endtestsonyourcluster.
+  * Analyseend-to-endtestsresults.
+  * RunNodeend-to-endtests.
 * Core Concepts 19%
 * Networking 11%
 * Scheduling 5%
